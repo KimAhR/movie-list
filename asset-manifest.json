@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kimahreum/movie-list/static/css/main.9950bf6b.css",
-    "main.js": "/kimahreum/movie-list/static/js/main.5bcb4f95.js",
-    "static/js/787.dfba6593.chunk.js": "/kimahreum/movie-list/static/js/787.dfba6593.chunk.js",
-    "index.html": "/kimahreum/movie-list/index.html",
-    "main.9950bf6b.css.map": "/kimahreum/movie-list/static/css/main.9950bf6b.css.map",
-    "main.5bcb4f95.js.map": "/kimahreum/movie-list/static/js/main.5bcb4f95.js.map",
-    "787.dfba6593.chunk.js.map": "/kimahreum/movie-list/static/js/787.dfba6593.chunk.js.map"
+    "main.css": "/movie-list/static/css/main.9950bf6b.css",
+    "main.js": "/movie-list/static/js/main.be10bbd8.js",
+    "static/js/787.dfba6593.chunk.js": "/movie-list/static/js/787.dfba6593.chunk.js",
+    "index.html": "/movie-list/index.html",
+    "main.9950bf6b.css.map": "/movie-list/static/css/main.9950bf6b.css.map",
+    "main.be10bbd8.js.map": "/movie-list/static/js/main.be10bbd8.js.map",
+    "787.dfba6593.chunk.js.map": "/movie-list/static/js/787.dfba6593.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9950bf6b.css",
-    "static/js/main.5bcb4f95.js"
+    "static/js/main.be10bbd8.js"
   ]
 }
